@@ -1,0 +1,14 @@
+C:\Users\promact.DESKTOP-4UN5AFI\Desktop\C# Assignment\CsharpAssignment5\bin\Debug\net8.0\CsharpAssignment5.exe
+C:\Users\promact.DESKTOP-4UN5AFI\Desktop\C# Assignment\CsharpAssignment5\bin\Debug\net8.0\CsharpAssignment5.deps.json
+C:\Users\promact.DESKTOP-4UN5AFI\Desktop\C# Assignment\CsharpAssignment5\bin\Debug\net8.0\CsharpAssignment5.runtimeconfig.json
+C:\Users\promact.DESKTOP-4UN5AFI\Desktop\C# Assignment\CsharpAssignment5\bin\Debug\net8.0\CsharpAssignment5.dll
+C:\Users\promact.DESKTOP-4UN5AFI\Desktop\C# Assignment\CsharpAssignment5\bin\Debug\net8.0\CsharpAssignment5.pdb
+C:\Users\promact.DESKTOP-4UN5AFI\Desktop\C# Assignment\CsharpAssignment5\obj\Debug\net8.0\CsharpAssignment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact.DESKTOP-4UN5AFI\Desktop\C# Assignment\CsharpAssignment5\obj\Debug\net8.0\CsharpAssignment5.AssemblyInfoInputs.cache
+C:\Users\promact.DESKTOP-4UN5AFI\Desktop\C# Assignment\CsharpAssignment5\obj\Debug\net8.0\CsharpAssignment5.AssemblyInfo.cs
+C:\Users\promact.DESKTOP-4UN5AFI\Desktop\C# Assignment\CsharpAssignment5\obj\Debug\net8.0\CsharpAssignment5.csproj.CoreCompileInputs.cache
+C:\Users\promact.DESKTOP-4UN5AFI\Desktop\C# Assignment\CsharpAssignment5\obj\Debug\net8.0\CsharpAssignment5.dll
+C:\Users\promact.DESKTOP-4UN5AFI\Desktop\C# Assignment\CsharpAssignment5\obj\Debug\net8.0\refint\CsharpAssignment5.dll
+C:\Users\promact.DESKTOP-4UN5AFI\Desktop\C# Assignment\CsharpAssignment5\obj\Debug\net8.0\CsharpAssignment5.pdb
+C:\Users\promact.DESKTOP-4UN5AFI\Desktop\C# Assignment\CsharpAssignment5\obj\Debug\net8.0\CsharpAssignment5.genruntimeconfig.cache
+C:\Users\promact.DESKTOP-4UN5AFI\Desktop\C# Assignment\CsharpAssignment5\obj\Debug\net8.0\ref\CsharpAssignment5.dll
